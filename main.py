@@ -3,7 +3,6 @@ import sys
 import time
 import os
 from colorama import Fore,init,Back,Style
-import keyboard
 
 init()
 
